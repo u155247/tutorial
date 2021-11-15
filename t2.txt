@@ -1,2 +1,4 @@
 add commit test
 conflict test 2
+conflict test 1
+
